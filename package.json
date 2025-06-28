@@ -35,5 +35,5 @@
   },
   "lint-staged": {
   "src/**/*.{ts,tsx}": "eslint --fix"
-}
+  }
 }

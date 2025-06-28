@@ -11,7 +11,7 @@ function App() {
   const [endX, setEndX] = useState<number>(0);
   const [endY, setEndY] = useState<number>(0);
   const [boardSize, setBoardSize] = useState<number>(0);
-  const [moveCount, setMoveCount] = useState<number>(0);
+  //const [moveCount, setMoveCount] = useState<number>(0);
   const [moves, setMoves] = useState<number>(0);
   const [westBoundary, setWestBoundary] = useState<number>(0);
   const [eastBoundary, setEastBoundary] = useState<number>(0);
